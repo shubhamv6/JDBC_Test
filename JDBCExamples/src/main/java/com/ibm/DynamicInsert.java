@@ -22,7 +22,6 @@ public class DynamicInsert {
 			
 			BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 			
-			
 			System.out.println("enter id : ");
 			int id=Integer.parseInt(br.readLine());
 			
